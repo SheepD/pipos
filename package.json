@@ -1,0 +1,27 @@
+{
+  "name": "pipos",
+  "version": "0.1.0",
+  "description": "basic POS for a raspberry pi",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheepD/pipos.git"
+  },
+  "keywords": [
+    "POS",
+    "raspberry-pi"
+  ],
+  "author": "Robert Maru de Vera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SheepD/pipos/issues"
+  },
+  "homepage": "https://github.com/SheepD/pipos#readme",
+  "devDependencies": {
+    "electron": "^7.1.2"
+  }
+}
